@@ -42,7 +42,12 @@ example
 
 ### Instructions to run and test
 
-Use the below command in the same directory of the code to run the application.
+1. Clone the project using the below command
+
+```
+    git clone https://github.com/suvel-the-dev/arr_mothd_exe.git
+```
+2. use the below command in the same directory of the code to run the application.
 
 ```
     node index.js
