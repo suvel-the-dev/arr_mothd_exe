@@ -10,15 +10,17 @@
 
 ### Instructions while solving the exercises
 
-1. create function for each task
+1. the task are listed in the "index.js"
 
-2. each task should have name structured in this formate:
+2. create function for each task
+
+3. each task should have name structured in this formate:
 
 ```
 task<task_number_in_words>
 ```
 
-3. the task function should be wrapped with starting and ending logs
+4. the task function should be wrapped with starting and ending logs
 <br/>
 
 example
@@ -31,7 +33,7 @@ const  task<task_number_in_words> = () => {
 }
 ```
 
-4. When each task is completed, type "X" in between "[]".
+5. When each task is completed, type "X" in between "[]".
 <br/>
 
 example
