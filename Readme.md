@@ -13,31 +13,31 @@
 1. create function for each task
 1. each task should have name structured in this formate:
 
-    ```
-    task<task_number_in_words>
-    ```
+```
+task<task_number_in_words>
+```
 
 1. the task function should be wrapped with starting and ending logs
 <br/>
 
-    example
+example
 
-    ```
-    const  task<task_number_in_words> = () => {
-        console.log("Task <task_number_in_words> starts");
-        ... other statements
-        console.log("Task <task_number_in_words> ends");
-    }
-    ```
+```
+const  task<task_number_in_words> = () => {
+    console.log("Task <task_number_in_words> starts");
+    ... other statements
+    console.log("Task <task_number_in_words> ends");
+}
+```
 
 1. When each task is completed, type "X" in between "[]".
 <br/>
 
-    example
-    
-    ```
-        [X] 0. Task zer0: log all the item in data
-    ```
+example
+
+```
+    [X] 0. Task zer0: log all the item in data
+```
 
 ### Instructions to run and test
 
